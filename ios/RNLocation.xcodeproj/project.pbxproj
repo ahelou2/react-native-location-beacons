@@ -8,8 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		13BE3DEE1AC21097009241FE /* RNLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 13BE3DED1AC21097009241FE /* RNLocation.m */; };
-		C555F1361DD73A0E00636B28 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C555F1351DD73A0E00636B28 /* libReact.a */; };
-		C555F1381DD73A5D00636B28 /* libRCTLinking.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C555F1371DD73A5D00636B28 /* libRCTLinking.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,8 +35,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C555F1381DD73A5D00636B28 /* libRCTLinking.a in Frameworks */,
-				C555F1361DD73A0E00636B28 /* libReact.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
