@@ -242,6 +242,7 @@ RCT_EXPORT_METHOD(stopRangingBeaconsInRegion)
           @"minor": [beacon minor],
           @"accuracy": @([beacon accuracy]),
           @"rssi": @([beacon rssi]),
+          @"proximity": proximityStr,
           }
          ];
     }
